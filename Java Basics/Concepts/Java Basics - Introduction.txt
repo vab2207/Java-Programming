@@ -1,0 +1,51 @@
+Java Basics - Introduction
+
+Java is a popular programming language used to make many applications. It was created by Sun Microsystems in 1995. Java is simple, secure, and platform-independent, which means you can run Java programs on any computer that has a Java Virtual Machine (JVM).
+
+Java programs are first written in files called source code files with extension `.java`. These files are then compiled into bytecode (`.class` files) using the Java compiler (`javac`). The JVM runs this bytecode on your computer.
+
+Key points about Java:
+- Java is Object-Oriented Programming language.
+- Java is platform independent because of JVM.
+- Java has automatic memory management with Garbage Collection.
+- Java programs start execution from the `main()` method.
+- Every Java program has at least one class.
+
+Basic Structure of a Java Program:
+
+>java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+--Topics Included:
+
+Java Program Structure – class, method, main method, syntax rules
+
+Data Types – byte, short, int, long, float, double, char, boolean
+
+Variables – declaration, initialization, naming rules
+
+Type Casting – widening and narrowing with examples
+
+Operators – arithmetic, relational, logical, assignment, unary, ternary
+
+Keywords – static, final, public, class, void, return
+
+Input/Output – using Scanner class and System.out
+
+Comments – single-line, multi-line (for clean code writing)
+
+Basic Error Handling – compile-time vs runtime error examples
+
+
+--Objectives:
+
+Build a strong base for learning OOP, Data Structures, and Java frameworks
+
+Be able to answer “Explain Java basics” in interviews confidently
+
+Practice industry-standard syntax and logic using simple code
