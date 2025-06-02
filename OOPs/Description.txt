@@ -1,0 +1,13 @@
+Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code.
+
+Main principles of OOP:
+
+1. Class and Object
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+5. Encapsulation
+
+OOP helps to write modular, reusable, and maintainable code.
+
+This folder contains programs and examples for each OOP principle, starting from basics to more advanced concepts.

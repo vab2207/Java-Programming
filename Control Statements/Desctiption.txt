@@ -1,0 +1,55 @@
+Control Statements:
+
+Control statements are used in Java to manage the flow of execution in a program. They help the program take decisions and repeat certain tasks when needed.
+
+1. Conditional Statements
+
+Purpose:
+
+To make decisions based on conditions. These statements help the program choose between different paths.
+
+
+-Types:
+
+if statement – runs a block of code only if the condition is true.
+
+if-else statement – chooses between two blocks of code based on true or false condition.
+
+if-else-if ladder – checks multiple conditions in sequence.
+
+nested if – uses one if inside another for complex decisions.
+
+Common Uses:
+
+Checking login credentials
+
+Grade calculation based on marks
+
+Age-based permissions
+
+Simple comparison logic
+
+2. Looping Statements (will be added next)
+
+Purpose:
+
+To repeat a set of statements multiple times until a condition is false.
+
+
+-Types:
+
+for loop – used when the number of iterations is known.
+
+while loop – used when the number of iterations is not known in advance.
+
+do-while loop – similar to while, but executes the loop at least once.
+
+Common Uses:
+
+Printing patterns
+
+Repeating menus
+
+Running counters
+
+Processing arrays or lists
