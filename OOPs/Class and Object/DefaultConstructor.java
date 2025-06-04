@@ -1,4 +1,4 @@
-class DefaultConstructor {
+class Student {
     String name;
     int age;
 

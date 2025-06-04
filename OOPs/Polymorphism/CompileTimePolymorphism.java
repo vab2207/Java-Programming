@@ -12,7 +12,7 @@ class CompileTimePolymorphism {
     }
 
     public static void main(String[] args) {
-        MethodOverloading obj = new MethodOverloading();
+        CompileTimePolymorphism obj = new CompileTimePolymorphism();
         obj.display("Aditya");
         obj.display(20);
         obj.display("Aditya", 20);

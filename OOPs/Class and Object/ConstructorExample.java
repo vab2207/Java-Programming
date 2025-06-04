@@ -1,11 +1,10 @@
-class Constructor {
+class Student {
     String name;
     int age;
-    Costructor(String n, int a) {
+    Student(String n, int a) {
         name = n;
         age = a;
-        return name;
-        return age;
+        
     }
     void display() {
         System.out.println("Name: " + name);

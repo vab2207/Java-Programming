@@ -1,13 +1,41 @@
-Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code.
+OOPs - Object Oriented Programming in Java
 
-Main principles of OOP:
+This folder has all the important topics of OOPs with basic programs.
 
-1. Class and Object
-2. Inheritance
-3. Polymorphism
-4. Abstraction
-5. Encapsulation
+OOPs means Object Oriented Programming. It is a method of writing code using objects and classes. It helps us organize code in a better and more real-life way.
 
-OOP helps to write modular, reusable, and maintainable code.
+Main Concepts Covered:
 
-This folder contains programs and examples for each OOP principle, starting from basics to more advanced concepts.
+Class and Object
+- Class is a blueprint or model.
+- Object is created from a class and has real data.
+- Example: class = Laptop, object = myLaptop
+
+Inheritance
+- One class can take properties of another class.
+- Used to reuse code.
+- Types of inheritance:
+  1. Single
+  2. Multilevel
+  3. Hierarchical
+  4. Multiple (using interface)
+  5. Hybrid (combination using interfaces)
+
+Polymorphism
+- One thing can behave in many ways.
+- Method Overloading (same method name, different arguments)
+- Method Overriding (child class changes parent method)
+
+Abstraction
+- Hiding unnecessary details and showing only the important parts.
+- Done using abstract classes and interfaces.
+
+Encapsulation
+- Wrapping data using private variables.
+- Access is given using getter and setter methods.
+
+
+Purpose:
+
+To understand all 5 core OOP concepts with simple examples. 
+Helps in building strong basics for Java coding, interviews, and projects.

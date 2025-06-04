@@ -1,4 +1,4 @@
-class SingleInheritance {
+class Laptop {
     String brand = "HP";
 
     void display() {

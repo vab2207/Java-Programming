@@ -1,4 +1,4 @@
-class Multilevel {
+class Laptop {
     void baseSpecs() {
         System.out.println("Basic laptop functionality");
     }
