@@ -1,0 +1,10 @@
+Strings in Java are objects that represent sequences of characters. They are widely used to store and manipulate text data. Java provides many built-in methods to perform operations like comparing, searching, modifying, and converting strings.
+There are three main types of string handling in Java:
+
+String class: Immutable sequences of characters. Once created, string objects cannot be changed.
+
+StringBuffer class: Mutable strings which can be modified without creating new objects. Thread-safe but slower.
+
+StringBuilder class: Similar to StringBuffer but faster and not thread-safe.
+
+This topic covers all these string types and their common methods for effective programming.S
