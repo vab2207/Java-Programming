@@ -44,6 +44,12 @@ while loop – used when the number of iterations is not known in advance.
 
 do-while loop – similar to while, but executes the loop at least once.
 
+3. Switch cases
+
+Purpose: 
+
+To perform a certain action as per input., works with multiple cases, each case has its purpose and will be printed accordingly by assigning it to a variable.
+
 Common Uses:
 
 Printing patterns

@@ -1,0 +1,9 @@
+This folder explains how objects behave in Java and how we can use the 'this' keyword.
+
+Key concepts:
+- Referring current class object using this
+- Using this in constructors
+- Returning object from method
+- Constructor chaining using this()
+
+These help in writing clean and organized code.

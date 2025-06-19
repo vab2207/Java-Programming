@@ -1,10 +1,26 @@
-Strings in Java are objects that represent sequences of characters. They are widely used to store and manipulate text data. Java provides many built-in methods to perform operations like comparing, searching, modifying, and converting strings.
-There are three main types of string handling in Java:
+This folder has programs on Strings.
 
-String class: Immutable sequences of characters. Once created, string objects cannot be changed.
+String_Basics:
+1. StringCreation.java - Make a string
+2. StringConcatenation.java - Join strings
+3. StringEqualsVsDoubleEquals.java - equals() vs ==
 
-StringBuffer class: Mutable strings which can be modified without creating new objects. Thread-safe but slower.
+String_Methods:
+1. CharAtExample.java - Get letter by index
+2. SubstringExample.java - Cut part of string
+3. ReplaceExample.java - Replace word
+4. SplitExample.java - Break sentence
 
-StringBuilder class: Similar to StringBuffer but faster and not thread-safe.
+StringBuffer:
+1. StringBufferExample.java - Change string using buffer
+2. InsertDeleteBuffer.java - Insert or delete letter
 
-This topic covers all these string types and their common methods for effective programming.S
+StringBuilder:
+1. StringBuilderExample.java - Same as buffer but faster
+2. ReverseUsingBuilder.java - Reverse string
+
+Practice:
+-PalindromeCheck.java - Word same front and back
+-WordCount.java - Count words
+-CountVowels.java - Count a, e, i, o, u
+-ReverseWords.java - Reverse each word

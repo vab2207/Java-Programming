@@ -1,0 +1,11 @@
+This folder explains how Java handles errors using exception handling.
+
+Key concepts:
+- What is an exception
+- Types of exceptions (checked and unchecked)
+- try-catch block
+- finally block
+- throw and throws keywords
+- creating custom exceptions
+
+This helps us avoid program crashes and handle errors in a clean way.

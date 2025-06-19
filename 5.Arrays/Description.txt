@@ -5,18 +5,19 @@ Arrays are used to store multiple values of the same data type in a single varia
 Types of Arrays in Java:
 
 1. One-Dimensional Array:
-   - Simple linear list of elements.
-   - Example: int[] arr = {1, 2, 3};
+- Simple linear list of elements.
+- Example: int[] arr = {1, 2, 3};
 
 2. Two-Dimensional Array:
-   - Matrix-like structure with rows and columns.
-   - Example: int[][] matrix = {{1,2}, {3,4}};
+- Matrix-like structure with rows and columns.
+- Example: int[][] matrix = {{1,2}, {3,4}};
 
 3. Jagged Array:
-   - Array of arrays with different row lengths.
-   - Example: int[][] jagged = new int[3][];
-     jagged[0] = new int[2];
-     jagged[1] = new int[3];
+- Array of arrays with different row lengths.
+- Example: 
+int[][] jagged = new int[3][];
+jagged[0] = new int[2];
+jagged[1] = new int[3];
 
 Common operations:
 - Traversing

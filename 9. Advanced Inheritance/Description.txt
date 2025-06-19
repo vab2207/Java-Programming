@@ -1,0 +1,9 @@
+This folder explains advanced use of inheritance in Java.
+
+Key concepts:
+- super keyword (access parent class members)
+- constructor chaining with super()
+- method overriding with super
+- calling parent constructors
+
+These help in using inheritance more efficiently in real-world classes.

@@ -1,0 +1,8 @@
+This folder introduces wrapper classes in Java.
+
+Key concepts:
+-Autoboxing (converting primitive to object)
+-Unboxing (object to primitive)
+-Wrapper methods like parseInt, valueOf
+
+Wrapper classes help in working with collections and utility functions that need objects instead of primitives.

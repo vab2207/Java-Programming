@@ -1,0 +1,8 @@
+This folder covers how the 'static' keyword is used in Java.
+
+Key concepts:
+- Static variables (common for all objects)
+- Static methods (can be called without object)
+- Static blocks (used for initialization)
+
+Static is useful when we want memory efficiency and shared logic.

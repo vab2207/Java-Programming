@@ -1,1 +1,14 @@
-Description 
+This folder contains basic programs of Core Java.
+
+
+1. HelloWorld.java - First Java program to print output
+2. DataTypesExample.java - Shows different data types like int, float, char, etc.
+3. VariablesExample.java - How to declare and use variables
+4. TypeCastingExample.java - Convert one data type to another (like int to float)
+5. OperatorsExample.java - All types of operators (arithmetic, relational, logical)
+6. FinalKeywordExample.java - Use of final keyword to make variable constant
+7. StaticKeywordExample.java - Basic use of static keyword in Java
+8. ScannerInputExample.java - Taking user input using Scanner class
+
+Practice programs:
+I've practiced some programs on java basics like swapping, simple interest calculator using operators, etc..
