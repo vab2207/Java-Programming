@@ -1,0 +1,15 @@
+This folder covers the concept of recursion in Java.
+
+Recursion means a method calling itself again and again until a condition is met.
+
+Key concepts:
+- What is recursion
+- Base condition and recursive call
+- Examples: factorial, fibonacci, GCD
+- Recursion vs loops
+
+Important points:
+- Every recursion must have a stopping condition
+- Uses function stack memory (LIFO)
+
+Recursion helps in solving problems like tree traversal, backtracking, and mathematical problems in an easy way.

@@ -1,0 +1,14 @@
+This folder explains how to write classes inside other classes in Java. These are called nested classes.
+
+Types of nested classes:
+1. Non-static inner class
+2. Static nested class
+3. Local inner class (inside method)
+4. Anonymous inner class
+
+Key uses:
+- Grouping related classes together
+- Better code organization
+- Can access outer class members
+
+Example use case: creating helper classes used only inside one outer class.

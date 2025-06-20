@@ -1,0 +1,12 @@
+This folder explains how to take input from the command line in Java.
+
+Key concepts:
+- Passing arguments to main() method
+- Using String[] args to read input
+- Converting string arguments to int using Integer.parseInt()
+
+Useful when we want to run programs with dynamic input without using Scanner.
+
+Example: 
+java MyProgram 10 20
+Here 10 and 20 are arguments passed through command line.
